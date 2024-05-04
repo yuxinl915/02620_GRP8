@@ -8,7 +8,8 @@ Clone the repository and install the required packages:
 ```bash
 git clone https://github.com/yuxinl915/02620_GRP8.git
 cd 02620_GRP8.git
-pip install -r requirements.txt
+conda env create -n myEnv -f env.yaml
+conda activate myEnv
 ```
 
 ## Run the code
