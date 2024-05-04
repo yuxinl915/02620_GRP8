@@ -7,7 +7,7 @@ improve if given its true label, for which we should query. To reflect this, we 
 Clone the repository and install the required packages:
 ```bash
 git clone https://github.com/yuxinl915/02620_GRP8.git
-cd 02620_GRP8.git
+cd 02620_GRP8
 conda env create -n myEnv -f env.yaml
 conda activate myEnv
 ```
