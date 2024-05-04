@@ -13,7 +13,11 @@ pip install -r requirements.txt
 
 ## Run the code
 knn.ipynb: all relevant work with our self-implemneted kNN classifier;
+
 NaiveBayes.ipynb: all relevant work with our self-implemneted Naive Bayes classifier;
+
 normality_test.ipynb: all relevant work with exploring whether the features following normal distribution;
+
 results.ipynb: all relevant work with the comparisons between methods and plots;
+
 SVM_active_learning.ipynb: all relevant work with the Support Vector Machine (SVM) and active learning strategies; they are in one file because we chose SVM as the base learner in active learning.
